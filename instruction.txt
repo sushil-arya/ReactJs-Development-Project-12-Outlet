@@ -1,0 +1,5 @@
+React Router Outlet
+
+if you want to load component using URL Patterns
+
+react-router-dom 3rd party library
