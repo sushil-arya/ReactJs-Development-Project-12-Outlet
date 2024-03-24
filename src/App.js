@@ -2,11 +2,11 @@ import React from "react";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./pages/Home";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import PageNotFound from "./pages/PageNotFound";
 import Layout from "./pages/Layout";
+import Home from "./Pages/Home";
+import Login from "./Pages/Login";
+import Register from "./Pages/Register";
+import PageNotFound from "./pages/PageNotFound";
 
 export default function App() {
   return (
